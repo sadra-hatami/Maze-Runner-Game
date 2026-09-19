@@ -1,7 +1,7 @@
 <div align="center">
 
 # Maze Runner Game
-# 🌀🏁
+# 🌀🏁🌀
 
 ### A Desktop Maze Game Built with Python and Pygame
 
