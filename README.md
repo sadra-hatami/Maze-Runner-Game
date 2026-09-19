@@ -294,10 +294,4 @@ If you enjoyed the maze, please consider:
 
 <br>
 
-## 👨‍💻 **Sadra Hatami**
-
-### Developer • Software Engineer • Creator
-
-⭐ If you like this project, don't forget to star the repository!
-
 </div>
